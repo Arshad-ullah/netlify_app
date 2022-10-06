@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
+// there are some error occured when fetch data
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
