@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 // add some data to firebase
 // add new data
+// mobile for sale
 void main() {
   runApp(const MyApp());
 }
